@@ -1,0 +1,14 @@
+baseURL = "https://helmholtz-imaging.github.io/workshop-template"
+languageCode = "en-us"
+title = "Helmholtz Imaging Workshop Template"
+theme = "hugo-theme-helmholtz-imaging-workshop"
+[markup.goldmark.renderer]
+unsafe= true
+canonifyURLs= true
+[params.mermaid]
+enable = true
+[params.plantuml]
+enable = true
+[markup]
+  [markup.highlight]
+      guessSyntax = "false"
