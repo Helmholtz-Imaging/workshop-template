@@ -87,13 +87,8 @@ Use the `tutorial-link` shortcode to render boxes linking to subtutorials. Subtu
 
 ---
 
-## QR-Codes
+## Thank you..
 
-{{< notes >}}
-You can render a QR code for any link using the `qr-code` partial.
-{{</ notes >}}
+{{<unlisted>}}
 
-
-You can print QR-Codes using the `qr-code` shortcode.
-
-{{< qr-code id="workshop-link" url="https://gitlab.com/ida-mdc/workshops/workshop-template" >}}
+.. and feel free to post issues [here](https://github.com/Helmholtz-Imaging/workshop-template/issues)!

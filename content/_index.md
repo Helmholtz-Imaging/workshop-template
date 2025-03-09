@@ -1,6 +1,6 @@
 ---
 title: "Workshop / event landing page"
-date: 2024-09-09
+date: 2025-03-09
 draft: false
 layout: home
 ---
